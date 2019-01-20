@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445568521 source:c:\c++ code\triangularpyramid_class\main.cpp
+	<cmath>
+	<iostream>
+	<iomanip>
+

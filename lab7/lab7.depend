@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1446338653 source:c:\c++ code\lab7\main.cpp
+	<iostream>
+	"ComplexNumber.h"
+
+1446337363 c:\c++ code\lab7\complexnumber.h
+	<iostream>
+
+1446337341 source:c:\c++ code\lab7\complexnumber.cpp
+	<iostream>
+	"ComplexNumber.h"
+	"math.h"
+

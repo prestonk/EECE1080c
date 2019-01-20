@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445557442 source:c:\c++ code\torus_class\main.cpp
+	<cmath>
+	<iostream>
+	<iomanip>
+

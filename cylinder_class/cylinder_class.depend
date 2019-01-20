@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445556107 source:c:\c++ code\cylinder_class\main.cpp
+	<cmath>
+	<iostream>
+	<iomanip>
+

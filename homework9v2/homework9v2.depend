@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449218352 source:c:\c++ code\homework9v2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

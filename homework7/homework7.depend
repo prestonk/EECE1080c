@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1446862869 source:c:\c++ code\homework7\main.cpp
+	<iostream>
+	"part1.h"
+
+1446863420 c:\c++ code\homework7\part1.h
+	<iostream>
+
+1446845421 c:\c++ code\homework7\part1.cpp
+	<iostream>
+	"part1.h"
+
+1446863460 source:c:\c++ code\homework7\part1.cpp
+	<iostream>
+	"part1.h"
+

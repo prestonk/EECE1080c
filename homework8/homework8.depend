@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1448053041 source:c:\c++ code\homework8\binary.cpp
+	"Binary.h"
+	<iostream>
+	<math.h>
+
+1448052774 c:\c++ code\homework8\binary.h
+	<iostream>
+
+1448052871 source:c:\c++ code\homework8\main.cpp
+	"Binary.h"
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1447460945 source:c:\c++ code\lab8\main.cpp
+	<iostream>
+	"ArrayClass.h"
+
+1447465434 c:\c++ code\lab8\arrayclass.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1447463286 source:c:\c++ code\lab8\arrayclass.cpp
+	"ArrayClass.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

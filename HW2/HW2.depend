@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1441834818 source:c:\c++ code\hw2\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<math.h>
+

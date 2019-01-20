@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1449188713 source:c:\c++ code\lab9\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<unistd.h>
+	<ctime>
+	<vector>
+
